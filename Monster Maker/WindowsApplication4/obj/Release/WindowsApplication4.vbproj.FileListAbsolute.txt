@@ -1,0 +1,11 @@
+C:\Users\VAIO\Desktop\Monster Maker\WindowsApplication4\obj\Release\WindowsApplication4.Form1.resources
+C:\Users\VAIO\Desktop\Monster Maker\WindowsApplication4\obj\Release\WindowsApplication4.Resources.resources
+C:\Users\VAIO\Desktop\Monster Maker\WindowsApplication4\obj\Release\WindowsApplication4.vbproj.GenerateResource.Cache
+C:\Users\VAIO\Desktop\Monster Maker\WindowsApplication4\obj\Release\WindowsApplication4.LoginForm1.resources
+C:\Users\VAIO\Desktop\Monster Maker\WindowsApplication4\bin\Release\Monster Maker.exe.config
+C:\Users\VAIO\Desktop\Monster Maker\WindowsApplication4\bin\Release\Monster Maker.exe
+C:\Users\VAIO\Desktop\Monster Maker\WindowsApplication4\bin\Release\Monster Maker.pdb
+C:\Users\VAIO\Desktop\Monster Maker\WindowsApplication4\bin\Release\Monster Maker.xml
+C:\Users\VAIO\Desktop\Monster Maker\WindowsApplication4\obj\Release\Monster Maker.exe
+C:\Users\VAIO\Desktop\Monster Maker\WindowsApplication4\obj\Release\Monster Maker.xml
+C:\Users\VAIO\Desktop\Monster Maker\WindowsApplication4\obj\Release\Monster Maker.pdb
